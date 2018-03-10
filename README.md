@@ -7,6 +7,7 @@ If you think an organization or project has a great online RFC repository, pleas
 * General Engineering
   * [IETF's RFC](https://www.rfc-editor.org/rfc-index.html)
   * [International Organization for Standardization's Standard Catalogue](https://www.iso.org/standards-catalogue/browse-by-ics.html)
+  * [Joyent's RFD](https://github.com/joyent/rfd)
 * Programming Languages and frameworks
   * [RFCs for changes to Rust](https://github.com/rust-lang/rfcs)
   * [RFCs for changes to React](https://github.com/reactjs/rfcs)
