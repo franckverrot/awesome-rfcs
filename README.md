@@ -20,6 +20,7 @@ If you think an organization or project has a great online RFC repository, pleas
   * [XMPP Extension Protocols](https://xmpp.org/extensions/)
   * [Swift Programming Language Evolution](https://github.com/apple/swift-evolution)
   * [Redis Change Proposals](https://github.com/redis/redis-rcp)
+  * [Python Enhancement Proposals](https://www.python.org/dev/peps/)
 * Cryptocurrencies
   * [Bitcoin Improvement Proposals](https://github.com/bitcoin/bips)
   * [The Ethereum Improvement Proposal](https://github.com/ethereum/EIPs)
