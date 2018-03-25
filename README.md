@@ -35,3 +35,4 @@ If you think an organization or project has a great online RFC repository, pleas
 * Tools
   * [Jenkins Enhancement Proposals](https://github.com/jenkinsci/jep)
   * [Ansible Proposals](https://github.com/ansible/proposals)
+  * [Jupyter Enhancement Proposals](https://github.com/jupyter/enhancement-proposals)
