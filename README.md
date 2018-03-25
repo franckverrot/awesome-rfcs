@@ -27,3 +27,4 @@ If you think an organization or project has a great online RFC repository, pleas
   * [Lightning Network Specifications](https://github.com/lightningnetwork/lightning-rfc) 
   * [Zcash Improvement Proposals](https://github.com/zcash/zips)
   * [BitShares Improvement Proposals and Protocol](https://github.com/bitshares/bsips)
+  * [NEO Enhancement Proposals](https://github.com/neo-project/proposals)
