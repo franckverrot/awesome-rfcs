@@ -31,3 +31,4 @@ If you think an organization or project has a great online RFC repository, pleas
   * [NEO Enhancement Proposals](https://github.com/neo-project/proposals)
 * Tools
   * [Jenkins Enhancement Proposals](https://github.com/jenkinsci/jep)
+  * [Ansible Proposals](https://github.com/ansible/proposals)
