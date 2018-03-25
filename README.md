@@ -24,6 +24,7 @@ If you think an organization or project has a great online RFC repository, pleas
   * [Erlang Enhancement Process](https://github.com/erlang/eep)
   * [Julia Enhancement Proposals](https://github.com/JuliaLang/Juleps)
   * [Coq Enhancement Proposals](https://github.com/coq/ceps)
+  * [Node.js Enhancement Proposals](https://github.com/nodejs/node-eps)
 * Cryptocurrencies
   * [Bitcoin Improvement Proposals](https://github.com/bitcoin/bips)
   * [The Ethereum Improvement Proposal](https://github.com/ethereum/EIPs)
