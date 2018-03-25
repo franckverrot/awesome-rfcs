@@ -29,3 +29,5 @@ If you think an organization or project has a great online RFC repository, pleas
   * [Zcash Improvement Proposals](https://github.com/zcash/zips)
   * [BitShares Improvement Proposals and Protocol](https://github.com/bitshares/bsips)
   * [NEO Enhancement Proposals](https://github.com/neo-project/proposals)
+* Tools
+  * [Jenkins Enhancement Proposals](https://github.com/jenkinsci/jep)
